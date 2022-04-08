@@ -6,7 +6,7 @@ In this course we will explore a wide variety of techniques to analyse data. Unl
 
 Regardless of your current level of knowledge, I am sure this repository will be of use. Please see below the list of dashboards we will produce. The dashboards will start basic and then get more involved with each step, so we will be building on our gained knowledge one step at a time. I hope you enjoy the course as much as I have enjoyed making it and teaching students and colleagues just like you.
 
-### Dashboards
+## Dashboards
 
-## Introduction
+# Introduction
 
